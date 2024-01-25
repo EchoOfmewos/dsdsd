@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+	  <Item>
+		 <modelName>fd250command</modelName>
+		 <colors>
+			<Item>
+			   <indices content="char_array">
+				  134
+				  134
+				  134
+				  29
+				  53
+				  54
+			   </indices>
+			   <liveries />
+			</Item>
+		 </colors>
+		 <kits>
+			<Item>61973_fd250command_modkit</Item> 
+		 </kits>
+		 <windowsWithExposedEdges />
+		 <plateProbabilities>
+			<Probabilities>
+			   <Item>
+				  <Name>Police guv plate</Name>
+				  <Value value="100" />
+			   </Item>
+			</Probabilities>
+		 </plateProbabilities>
+		 <lightSettings value="462" />
+		 <sirenSettings value="86174" />
+	  </Item>
+	</variationData>
+</CVehicleModelInfoVariation>

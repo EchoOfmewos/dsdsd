@@ -1,0 +1,62 @@
+Loc = {}
+Loc["en"] = {
+    error = {
+        ["someone_sitting_here"] = "Someone is already sitting there..",
+        ["not_clocked_in"] = "Not clocked in!",
+        ["not_right_ingredients"] = "You don't have the correct ingredients",
+        ["in_the_way"] = " in the way",
+    },
+    success = {
+        ["washed_hands"] = "You've washed your hands!",
+        ["retrieved"] = "Retrieved ",
+    },
+    info = {
+        ["marked_on_map"] = "Job Vehicle Marked on Map",
+    },
+    targetinfo = {
+        ["sit_down"] = "Sit Down",
+        ["open_cabinet"] = "Open Cabinet",
+        ["prepared_food"] = "Prepared Food",
+        ["open_store"] = "Open Store",
+        ["prepare_food"] = "Prepare Food",
+        ["prepare_coffee"] = "Prepare Coffee",
+        ["prepare_drinks"] = "Prepare Drinks",
+        ["use_oven"] = "Use Oven",
+        ["use_soda_machine"] = "Use Soda Machine",
+        ["open_tray"] = "Open Tray",
+        ["wash_hands"] = "Wash Your Hands",
+        ["charge_customer"] = "Charge Customer",
+        ["toggle_duty"] = "Toggle Duty",
+        ["open_bossmenu"] = "Open Bossmenu",
+        ["job_vehicles"] = "Job Vehicles",
+
+    },
+    menu = {
+        ["chopping_board"] = "Chopping Board",
+        ["preparation"] = "Preparation",
+        ["coffee_machine"] = "Coffee Machine",
+        ["blender"] = "Blender",
+        ["oven_menu"] = "Oven Menu",
+        ["soda_dispenser"] = "Soda Dispenser",
+        ["close"] = "Close",
+        ["back"] = "Back",
+        ["job_garage"] = "Job Garage",
+        ["vehicle_out_of_garage"] = "Vehicle out of Garage",
+        ["remove_vehicle"] = "Remove Vehicle",
+        ["plate"] = "<br> Plate: [",
+        ["vehicle"] = "Vehicle: ",
+    },
+    progress = {
+        ["preparing"] = "Preparing ",
+        ["baking"] = "Baking ",
+        ["blending"] = "Blending ",
+        ["pouring"] = "Pouring ",
+        ["making"] = "Making ",
+    },
+    progressbar = {
+        ["washing_hands"] = 'Washing hands',
+        ["eating"] = "Eating ",
+        ["drinking"] = "Drinking ",
+    },
+    warning = {},
+}

@@ -1,0 +1,16 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>interior\hane_trey_bakery_milo_.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>interior\hane_trey_bakery.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

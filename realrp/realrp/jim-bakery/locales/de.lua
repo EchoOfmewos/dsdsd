@@ -1,0 +1,61 @@
+Loc = {}
+Loc["de"] = {
+    error = {
+        ["someone_sitting_there"] = "Jemand sitzt bereits dort...",
+        ["not_clocked_in"] = "Nicht eingestempelt!",
+        ["cancelled"] = "Abgebrochen",
+        ["in_the_way"] = " steht im Wege",
+    },
+    success = {
+        ["washed_hands"] = "Sie haben sich die Hände gewaschen!",
+        ["retrieved"] = "Abrufbar unter ",
+    },
+    info = {
+        ["marked_on_map"] = "Job Fahrzeug auf Karte markiert",
+    },
+    targetinfo = {
+        ["sit_down"] = "Hinsetzen",
+        ["open_cabinet"] = "Kabinett öffnen",
+        ["prepared_food"] = "Zubereitete Lebensmittel",
+        ["open_store"] = "Laden öffnen",
+        ["prepare_food"] = "Essen zubereiten",
+        ["prepare_coffee"] = "Kaffee zubereiten",
+        ["prepare_drinks"] = "Drinks zubereiten",
+        ["use_oven"] = "Ofen benutzenn",
+        ["use_soda_machine"] = "Soda-Maschine verwenden",
+        ["open_tray"] = "Tablett öffnen",
+        ["wash_hands"] = "Waschen Sie Ihre Hände",
+        ["charge_customer"] = "Kunden abkassieren",
+        ["toggle_duty"] = "Dienst umschalten",
+        ["open_bossmenu"] = "Bossmenü öffnen",
+        ["job_vehicles"] = "Jobfahrzeuge",
+
+    },
+    menu = {
+        ["chopping_board"] = "Schneidebrett",
+        ["preparation"] = "Vorbereitung",
+        ["coffee_machine"] = "Kaffeemaschine",
+        ["blender"] = "Mixer",
+        ["oven_menu"] = "Ofenmenü",
+        ["soda_dispenser"] = "Limonadenspender",
+        ["close"] = "Schließen",
+        ["job_garage"] = "Job Garage",
+        ["vehicle_out_of_garage"] = "Fahrzeug aus der Garage",
+        ["remove_vehicle"] = "Fahrzeug entfernen",
+        ["plate"] = "<br> Kennzeichen: [",
+        ["vehicle"] = "Fahrzeug: ",
+    },
+    progress = {
+        ["preparing"] = "Vorbereiten ",
+        ["baking"] = "Backe ",
+        ["blending"] = "Mischen ",
+        ["pouring"] = "Gieße ein ",
+        ["making"] = "Stelle her ",
+    },
+    progressbar = {
+        ["washing_hands"] = 'Hände waschen',
+        ["eating"] = "Esse ",
+        ["drinking"] = "Trinke ",
+    },
+    warning = {},
+}

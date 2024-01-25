@@ -1,0 +1,21 @@
+fx_version 'adamant'
+
+game 'gta5'
+
+version '1.0'
+
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_dots.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_ferrero.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_gobstopper.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_hersheysgiant.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_hottamales.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_jif.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_milkduds.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_nerdsgummyclustersrainbow.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_prignles_og.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_sweedishfish.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_sweettarts.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_trolli.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_trolli_fruitpunch.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_whoppers.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/brum_doritos_coolranch.ytyp'

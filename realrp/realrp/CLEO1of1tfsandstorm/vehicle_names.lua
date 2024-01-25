@@ -1,0 +1,5 @@
+Citizen.CreateThread(function()
+	AddTextEntryByHash(`SANDSTORM`, "Sandstorm")
+	AddTextEntryByHash(`SANDSTORMXL`, "Sandstorm XL")
+	AddTextEntryByHash(`SANDSTORMEV`, "Sandstorm Spark")
+end)
